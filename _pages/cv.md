@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, University of Heidelberg and Max Planck Institute for Nuclear Physics, 2019
+* M.S. in Physics, Indian Institute of Technology-Delhi, 2015
+* B.S. in Physics, University of Delhi, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Post-doctoral Researcher**
+Erlangen Centre for Astroparticle Physics, Erlangen, Germany. March 2019 - Present
+**Research Assistant**
+Max Planck Institute for Nuclear Physics, Heidelberg, Germany. September 2015 - February 2019
+**Internship**
+Tata Institute for Fundamental Research, Mumbai, India. May 2014 - August 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python (Advanced), SQL (Familiar), C++ (Familiar), Bash (Familiar)
+* Scientific Computing: Sci-Py, Numpy, PyTorch, SkLearn, MatplotLib, and SeaBorn
+* Machine Learning: Linear and Logistic Regression, Classification, BDT, CNN, Graph Neural Networks, and Auto-Encoders
+* Familiar: Computer Vision, Natural Language Processing
+* Soft Skills:
+  * Worked in Collaborations with 100+ Scientists doing Physics analysis and Software Development
+  * Coordinated several data analysis projects with 3-10 team members resulting in publications.
+  * Involved in co-supervision of several masters and PhD theses.
+  * Tought advanced laboratory courses (including on machine learning) for master's students.
+  * Enthusiastic about un-orthodox methods
+  * Critical thinking and Research Oriented
+* Languages: English (Fluent), Hindi (Native) and German (Intermidiate)
