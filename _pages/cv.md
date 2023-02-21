@@ -26,7 +26,7 @@ Tata Institute for Fundamental Research, Mumbai, India. May 2014 - August 2015
 
 Skills
 ======
-* Programming Languages: Python (Advanced), SQL (Familiar), C++ (Familiar), Bash (Familiar)
+* Programming Languages: Python (Advanced), C++ (Familiar), SQL (Familiar) and Bash (Familiar)
 * Scientific Computing: Sci-Py, Numpy, PyTorch, SkLearn, MatplotLib, and SeaBorn
 * Machine Learning: Linear and Logistic Regression, Classification, BDT, CNN, Graph Neural Networks, and Auto-Encoders
 * Familiar: Computer Vision, Natural Language Processing
