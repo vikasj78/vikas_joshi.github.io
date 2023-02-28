@@ -2,7 +2,7 @@
 title: "HESS J1809−193: a halo of escaped electrons around a pulsar wind nebula?"
 collection: publications
 permalink: /publication/J1809_paper
-date: 2023-27-02
+date: 2023-02-27
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://arxiv.org/pdf/2302.13663.pdf'
 ---
