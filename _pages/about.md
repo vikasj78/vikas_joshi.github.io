@@ -9,7 +9,8 @@ redirect_from:
 ---
 About
 ======
-I am a physicist and data scientist with a demonstrated history of working in the research industry. I have worked with large datasets from several gamma-ray observatories, such as HESS, HAWC and SWGO, with diverse international teams. My research background provides me with solid experience in data analytics, data visualization, statistics, Python, machine learning models, and high-performance computing. As a team player with solid research, problem-solving, communication, and writing skills, I always look forward to learning new technologies.
+I am a research (data) scientist with a demonstrated history of working in the research industry. I have worked with large datasets from several gamma-ray observatories with diverse international teams. My research background provides me with solid experience in deep learning, machine learning, statistical analysis, data analysis, data visualisation, Python and C++ programming, SQL, and high-performance computing. As a team player with solid research, supervision, problem-solving, communication, and writing skills, I always look forward to learning new technologies.
+
 
 To have a look at my GitHub, LinkedIn and other pages. Please click on the corresponding icons below my profile picture. Thank you :)
 
